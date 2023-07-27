@@ -1,6 +1,6 @@
 # Intro/Table of Contents
 
-The goal of this repository is to explore how we can use persistent homology to detect rotational and translation symmetry in images. The code relies on Ripser to run persistent homology computation.
+The goal of this repository is to explore how we can use persistent homology to detect rotational and translation symmetry in images. The code relies on Ripser to run persistent homology computations.
 
 The [public](https://github.com/kyleormsby/persistent-symmetry/tree/main/public) folder is organized as follows: 
 1. [1_wallpaper_homology.ipynb](https://github.com/kyleormsby/persistent-symmetry/blob/main/public/1_wallpaper_homology.ipynb) contains necessary backgroup on the topology of wallpaper manifolds
